@@ -6,6 +6,8 @@ import org.springframework.context.annotation.Bean;
 
 import com.marketingapp1.util.EmailServiceImpl;
 
+
+//application
 @SpringBootApplication
 public class Marketingapp1Application {
 
